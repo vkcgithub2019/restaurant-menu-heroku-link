@@ -20,7 +20,7 @@ const Logo = styled(Title)`
 export function Navbar(){
     return <NavbarStyled>
                 <Logo>
-                 Hornbill Gourmet Restaurant - Authentic Malaysian Cuisines | bird
+                 Hornbill Gourmet Restaurant - Authentic Malaysian Cuisines-"The Borneo Connection"
                 </Logo>
             </NavbarStyled>;
         
